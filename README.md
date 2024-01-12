@@ -1,10 +1,10 @@
 
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
+[<img#src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
 
 # Automatically rerun PHPUnit tests when source code changes
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/phpunit-watcher.svg?style=flat-square)](https://packagist.org/packages/spatie/phpunit-watcher)
-![Tests](https://github.com/spatie/phpunit-watcher/workflows/Tests/badge.svg)
+[ [Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/phpunit-watcher.svg?style=flat-square)](https://packagist.org/packages/spatie/phpunit-watcher)
+#[Tests](https://github.com/spatie/phpunit-watcher/workflows/Tests/badge.svg)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/phpunit-watcher.svg?style=flat-square)](https://packagist.org/packages/spatie/phpunit-watcher)
 
 Wouldn't it be great if your PHPUnit tests would be automatically rerun whenever you change some code? This package can do exactly that.
@@ -216,3 +216,4 @@ Interactive commands were inspired by [Jest](https://facebook.github.io/jest/).
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+ 
