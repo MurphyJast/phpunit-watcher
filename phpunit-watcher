@@ -1,4 +1,4 @@
-#!/usr/bin/env php
+ !/usr/bin/env php
 
 <?php
 
@@ -35,3 +35,4 @@ function prepareArgs() {
 
     $_SERVER['argv'] = $newArguments;
 }
+ 
